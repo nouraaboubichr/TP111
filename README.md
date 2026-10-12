@@ -24,7 +24,7 @@ Les tests sont dans `src/test/java/metier/MetierImplTest.java` (JUnit 4.13.2) :
 Exécution : `mvn test` ou clic droit sur la classe de test dans IntelliJ.
 
 ### Résultat des tests
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-10-12 142547.png" />
+<img width="1270" height="674" alt="1" src="Capture d'écran 2026-10-12 142547.png" />
 
 
 ## Résultat affiché dans la console
@@ -53,4 +53,4 @@ Process finished with exit code 0
 
 
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-10-12 134241.png" />
+<img width="1270" height="674" alt="1" src="Capture d'écran 2026-10-12 134241.png" />
